@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".subActivity">
-
+    tools:context=".subActivity"
+    android:orientation="vertical">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -14,5 +14,10 @@
         android:background="#E0FFE0"
         android:layout_marginBottom="8dp"
         android:id="@+id/textViewName"/>
+
+    <TextView
+        android:id="@+id/textView01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
