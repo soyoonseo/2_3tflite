@@ -45,7 +45,7 @@ Android Studio에서 `Open an existing project`를 선택하고 원격 저장소
 
 
 ### Step 3. 앱 실행시켜보기
-<p align="center"><img src="https://ifh.cc/g/CkvAoR.jpg" height="400px"></img></p>
+<p align="center"><img src="https://ifh.cc/g/ya8sXb.jpg" height="400px"></img></p>
 
 - 앱을 테스트하기 위해서 안드로이드 장치에 다운로드된 `CropDoctor` 앱을 클릭합니다. 앱을 처음으로 실행시킬 때 카메라 접근에 대한 허가를 요청할 것입니다. 
 - `방제 방법 알아보기`버튼을 누르면 작물의 병충해에 대한 정보와 방제법을 확인할 수 있습니다. 
