@@ -27,7 +27,7 @@
 ### Step 1. 원격 저장소 git clone
 
 ```
-git clone https://github.com/tensorflow/examples
+git clone https://github.com/soyoonseo/2_3tflite
 ```
 
 <p align="center"><img src="https://ifh.cc/g/0UnbcI.jpg" width="500px"></p>
